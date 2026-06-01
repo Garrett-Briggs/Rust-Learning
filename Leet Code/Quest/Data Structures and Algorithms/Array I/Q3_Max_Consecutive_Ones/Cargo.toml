@@ -1,0 +1,6 @@
+[package]
+name = "Q3_Max_Consecutive_Ones"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

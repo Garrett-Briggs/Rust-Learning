@@ -1,0 +1,1 @@
+C:\Users\gbriggs\OneDrive\ -\ Komatsu\ Ltd\Desktop\VS\ Code\ Programs\NeoVim\ Programs\Rust\The\ Rust\ Programming\ Language\Chapter\ 3\fahrenheit_and_celsius\target\debug\fahrenheit_and_celsius.exe: C:\Users\gbriggs\OneDrive\ -\ Komatsu\ Ltd\Desktop\VS\ Code\ Programs\NeoVim\ Programs\Rust\The\ Rust\ Programming\ Language\Chapter\ 3\fahrenheit_and_celsius\src\main.rs

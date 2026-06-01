@@ -1,0 +1,6 @@
+[package]
+name = "Q2_Shuffle_the_Array"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
