@@ -1,0 +1,1 @@
+C:\Users\gbriggs\OneDrive\ -\ Komatsu\ Ltd\Desktop\VS\ Code\ Programs\NeoVim\ Programs\Rust\The\ Rust\ Programming\ Language\Chapter\ 4\understanding_ownership\target\debug\understanding_ownership.exe: C:\Users\gbriggs\OneDrive\ -\ Komatsu\ Ltd\Desktop\VS\ Code\ Programs\NeoVim\ Programs\Rust\The\ Rust\ Programming\ Language\Chapter\ 4\understanding_ownership\src\main.rs
